@@ -15,32 +15,31 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "fs": "^0.0.1-security",
-    "knex": "<0.20.0",
-    "path": "^0.12.7",
-    "pg": "^8.0.3",
-    "rimraf": "^3.0.1",
-    "sqlite3": "latest",
-    "strapi": "3.1.0",
-    "strapi-admin": "3.1.0",
-    "strapi-connector-bookshelf": "3.1.0",
-    "strapi-plugin-content-manager": "3.1.0",
-    "strapi-plugin-content-type-builder": "3.1.0",
-    "strapi-plugin-email": "3.1.0",
-    "strapi-plugin-graphql": "3.1.0",
-    "strapi-plugin-upload": "3.1.0",
-    "strapi-plugin-users-permissions": "3.1.0",
-    "strapi-provider-upload-cloudinary": "3.1.0",
-    "strapi-utils": "3.1.0",
-    "unzip-stream": "^0.3.0"
+    "knex": "0.21.18",
+    "pg": "^8.6.0",
+    "rimraf": "^3.0.2",
+    "sqlite3": "5.0.2",
+    "strapi": "3.6.5",
+    "strapi-admin": "3.6.5",
+    "strapi-connector-bookshelf": "3.6.5",
+    "strapi-plugin-content-manager": "3.6.5",
+    "strapi-plugin-content-type-builder": "3.6.5",
+    "strapi-plugin-email": "3.6.5",
+    "strapi-plugin-graphql": "3.6.5",
+    "strapi-plugin-upload": "3.6.5",
+    "strapi-plugin-users-permissions": "3.6.5",
+    "strapi-provider-upload-cloudinary": "3.6.5",
+    "strapi-utils": "3.6.5",
+    "unzip-stream": "^0.3.1"
   },
   "author": {
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "STRAPI-STARTER-BLOG"
+    "uuid": "STRAPI-STARTER-DEVELOPMENT"
   },
   "engines": {
-    "node": ">=10.0.0",
+    "node": ">=14.0.0",
     "npm": ">=6.0.0"
   },
   "license": "MIT"

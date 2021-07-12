@@ -15,6 +15,10 @@
     "CLOUDINARY_API_SECRET": {
       "description": "The 'API Secret' of your Cloudinary account",
       "required": true
+    },
+    "JWT_SECRET": {
+      "description": "The 'API Secret' for your JWT Auth. Recommended, but not strictly required",
+      "required": true
     }
   },
   "addons": ["heroku-postgresql:hobby-dev"],

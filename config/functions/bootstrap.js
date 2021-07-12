@@ -10,7 +10,6 @@ require("dotenv").config();
  * See more details here: https://strapi.io/documentation/3.0.0-beta.x/concepts/configurations.html#bootstrap
  */
 const fs = require("fs");
-const path = require("path");
 const { articles, categories } = require("../../seed/seed");
 
 const findPublicRole = async () => {
