@@ -16,8 +16,8 @@ This starter contains the content types and configuration to get you up and runn
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/strapi/strapi-starter-blog.git
-cd strapi-starter-blog
+git clone https://github.com/spersico/strapi-heroku-starter.git
+cd strapi-heroku-starter
 ```
 
 Then run the Strapi server:
@@ -31,5 +31,9 @@ yarn develop
 npm install
 npm run develop
 ```
+
+## Deploying to Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 The Strapi server is running here => [http://localhost:1337](http://localhost:1337)
