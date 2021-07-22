@@ -23,9 +23,11 @@ Once you have created these accounts you can deploy your instance by clicking on
 
 > Tip 💡: You can copy this repo first with the template button, and **then** click on the deploy link, in **your** clone's uploaded readme.md. 
 
-> It will make things easier later, to sync your repo and the copy that Heroku mantains.
+> It will make things easier later, to sync your repo and the copy that Heroku mantains. 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+*For private repos, take a look at [this](https://devcenter.heroku.com/articles/heroku-button#private-github-repos)
 
 ## Getting started
 
