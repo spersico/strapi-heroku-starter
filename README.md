@@ -27,7 +27,7 @@ Once you have created these accounts you can deploy your instance by clicking on
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-*For private repos, take a look at [this](https://devcenter.heroku.com/articles/heroku-button#private-github-repos)
+*For private repos, take a look at [this](https://devcenter.heroku.com/articles/heroku-button#private-github-repos)*
 
 ## Getting started
 
