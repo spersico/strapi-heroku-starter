@@ -9,7 +9,7 @@ This starter contains the content types and configuration to get you up and runn
   - 2 Collection types: Article, Category
   - 2 Created articles
   - 2 Created categories
-  - Permissions set to `true` for article and category
+  - Read permissions set to `true` for article and category
 
 
 ## Deploying to Heroku
