@@ -18,7 +18,7 @@
     },
     "JWT_SECRET": {
       "description": "The 'API Secret' for your JWT Auth. Recommended, but not strictly required",
-      "required": true
+      "required": false
     }
   },
   "addons": ["heroku-postgresql:hobby-dev"],
